@@ -1,0 +1,26 @@
+{
+  "name": "psd-helper",
+  "version": "1.0.0",
+  "description": "A project to generate assets from provided psd file(s)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamlekar/PSD-helper.git"
+  },
+  "keywords": [
+    "psd",
+    "psd",
+    "helper",
+    "assets",
+    "resources"
+  ],
+  "author": "Kamlekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamlekar/PSD-helper/issues"
+  },
+  "homepage": "https://github.com/kamlekar/PSD-helper#readme"
+}
