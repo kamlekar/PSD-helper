@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/kamlekar/PSD-helper/issues"
   },
-  "homepage": "https://github.com/kamlekar/PSD-helper#readme"
+  "homepage": "https://github.com/kamlekar/PSD-helper#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "psd": "^3.2.0"
+  }
 }
