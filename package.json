@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/kamlekar/PSD-helper#readme",
   "devDependencies": {
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "psd": "^3.2.0"
